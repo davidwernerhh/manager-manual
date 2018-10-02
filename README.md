@@ -303,3 +303,8 @@ This is my [PI](https://www.predictiveindex.com/what-we-do/our-assessments/behav
 - Start a club
 - Tell a joke at no one's expense
 - Smile a lot
+
+### Sources
+
+- [Molly's Manager Readme](https://github.com/molly/manager-README)
+- [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
