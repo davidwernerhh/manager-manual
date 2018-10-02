@@ -1,4 +1,4 @@
-# Manual About Myself ™️ 🧀
+# Manual About Myself™️ 🧀
 Hi. My name is David Werner. I’m an engineering leader and consultant. I currently work as an Engineering Directory at XING, previously as a Technical Product Lead at InnoGames. I did freelance work before that for more than ten years. I am coming from a strong backend-leaning technical background and did most of my projects in PHP and Java.
 
 I am managing, building and growing teams for many years now. I champion engineering best-practices and have a distinct emphasis on software quality, Continous Integration, and automation tools.
@@ -14,10 +14,10 @@ I love to be surrounded by people who challenge me, and I recognize that most pe
 I value open, authentic relationships. I promise to be kind, honest, empathetic and friendly with you. I want to get to know you and what's important for you. I will try to create a safe space for you to flourish and grow.
 
 **How I like to communicate**
+
 Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. But I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it! 
 
 I will be in a lot of meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
-
 
 > email > slack > text > in-person > call
 
@@ -32,20 +32,18 @@ If you need something, push your communication pro-actively, do not wait for me 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me; it’s precious. Since I manage different teams in different units,  I’d love to be there for you if something comes up. Please understand that I can’t see how you’re doing by walking around the office.
 
 **Talking about solutions**
+
 It is crucial to me that you try to focus on possible solutions to a problem. The focus on the answer gives us the right mindset to talk about possible paths to a solution, rather than only focussing on what's wrong or not working right now.
 
-  
-
 How I like to do it: I don’t require you to only approach me when you have the perfect solution, but I’d like you to think about some options before. It doesn't have to be perfect, but should be a reasonable basis for our discussion. The ideal way will be if you prepare a decision proposal on how to move forward. It could look like this:
-
 
 - **Option 1 (preferred):** Describe what you are planning, what implications there are and what the pros/cons are. Have a specific impact on business value and what KPIs are affected. Be prepared to provide insight and clarity to the options you propose.
 - Option 2: …
 - Option 3: …
 
 **Status Reporting**
-When it comes to reporting your progress or status of your assignments and your professional behavior, I’d like to follow a Red-Amber-Green assessment model. My goal is for you always to know where you’re at regarding your progress and performance. If you ever feel you don’t know, feel unsafe or missing input and feedback, please ask me. 
 
+When it comes to reporting your progress or status of your assignments and your professional behavior, I’d like to follow a Red-Amber-Green assessment model. My goal is for you always to know where you’re at regarding your progress and performance. If you ever feel you don’t know, feel unsafe or missing input and feedback, please ask me.
   
   **Green** - there might be things to improve, or there might not. It means you are on the right track (in budget, time and quality and scope) and don’t need any further support.
   
@@ -54,11 +52,12 @@ When it comes to reporting your progress or status of your assignments and your 
   **Red** - there is a significant problem, and we need to talk about this explicitly. Possible approaches to solving this problem will come with a timebox attached.
 
 **D.R.I. Principle**
-I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. If you want to learn more about it: 
 
+I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. If you want to learn more about it: 
 
 - [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
 - [How Well Does Apple's Directly Responsible Individual (DRI) Model Work In Practice?](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#778921f3194c)
+
 # North Star Principles
     “*The way to make people trust-worthy is to trust them.”*
       — Ernest *Hemingway*
@@ -72,6 +71,7 @@ The base for everything we do, our interaction, our communication, your commitme
 I believe in leading by helping others see more clearly what they already know, supporting them in finding solutions and fostering the strengths that they already own.
 
 **1:1s**
+
 I will create a meeting individually with you (and everyone else from my direct reports) on a weekly basis. We'll call these meetings "one-on-ones". I think this is an excellent way for us to maintain good, open communication, and continue to build our relationship. We'll be meeting for 30 minutes once a week, at a pre-scheduled (and usually unchanged) time. It will be a private conversation - just you and I. We'll meet at my desk - if you have concerns, we'll talk about those once we get going. I will probably have some things to discuss with you, but this is first and foremost an opportunity to let me know how you're doing. 
 
 Stuff we might be talking about:
@@ -88,6 +88,7 @@ Stuff we might be talking about:
 That means that you drive the agenda. For me, it is fine if you want to do reporting, but the general idea is that you share what you need. Let’s talk about what you wish could be different, how you feel about our team and your peers, what your career goals are. This discussion will also give me a chance to share feedback and coaching with you on things you're trying to improve on. Remember, you drive the conversation and the agenda.
 
 **Feedback**
+
 Giving feedback on your performance and behavior is a key part of my responsibilities. To be effective in providing and getting feedback, you should get comfortable with that process. But don’t worry - we both will have enough time to train that. What you can rely on: If I'm worried about your performance, I will let you know. But if you worry that I'm concerned about your performance, please also let me know.
 
 As an analogy to giving feedback, I often refer to the “brick method”. When you drop a brick on your foot, it hurts immediately. It doesn’t hurt a month later or when you have the next yearly appraisal talk. Same goes for feedback. It should be fast and describing a specific behavior. Also, it should be small enough to handle and steer you in the right direction. 
@@ -99,7 +100,6 @@ I aim for “no surprises in our performance dialogue meetings”. That means th
 Feedback doesn’t hurt, I will be our tool to get better in what we are doing. But I know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain to me why something is wrong, I will listen, and I will try to fix it.
 
 **Coaching**
-
 
     *“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”*
       — Stephen R. Covey
@@ -113,20 +113,22 @@ I can help you with reflecting and brainstorming on the next steps. For a given 
 If you ever heard of S.M.A.R.T. goals - great! I think they don’t work. When we talk about your personal development plan, let’s focus only on M (measurable) and T (time bound). It gives us something very focused to work and improve on.
 
 **Delegation**
+
 I am accountable for the decisions the team makes, even if I’m not the one making these decisions most of the time. Also, most of my own performance reviews are based on my team's performance, not so much on my individual performance. Because of that, delegation is an indispensable part of my work. If you are successful and happy, our team is successful and happy, and I am successful and happy.
 
 But sometimes I might put more on your shoulders that you think you can handle. That’s intended. That’s one way of figuring out where your strengths and limits are.
 
 ## What you can expect of me as your manager
+
 - A weekly 1:1 if you are my direct report.
 - For managers, you can also expect regular “skip level” 1:1s where I’ll chat with your direct reports.
 - Direct feedback as quickly as possible, based on observations.
 - I will try to give you a direction on what to do, not how to do it.
 - I’ll try to transparently share the context of my own goals, challenges, and priorities. Please tell me if you don’t know what I’m currently up to.
+
 ## My expectations for everyone who reports to me
 
 Additionally and partly overlapping to the text above
-
 
 - Get results. Do your job. This is your first and primary responsibility.
 - Make mistakes, but learn from it.
@@ -159,10 +161,10 @@ Additionally and partly overlapping to the text above
 - Show up. Show up and keep showing up. Show up with at least enthusiasm as you had when you first raised your hand to volunteer. The volunteering part is easy. Making promises is a fun way to get someone's attention. Keeping those promises is often unsung, but that's how you build something.
 - Be on time. Call me if you are late. Tell me if you can't make it.
 - Push yourself to try new things and continue to engage in learning and knowledge sharing.
+
 ## My expectations of managers who report to me
 
 It is quite ‘easy’ to be a good manager. If you do the following things, then you are already better than 90% than others:
-
 
 - Again: Get results. Do your job. This is your first and primary responsibility.
 - Stick up to your commitments.
@@ -170,8 +172,8 @@ It is quite ‘easy’ to be a good manager. If you do the following things, the
 - Focus on hiring. Hire people that are better than you.
 
 **People Management**
-Embrace your key responsibilities of managings a cross-functional, multi-cultural engineering team. Develop the people, use their unique skills and coach them on personal and tech topics.
 
+Embrace your key responsibilities of managing a cross-functional, multi-cultural engineering team. Develop the people, use their unique skills and coach them on personal and tech topics.
 
 - Please have weekly 1:1s with your direct reports. In those 1:1s, please be explicit about your reports’ career progression, the feedback you have for them, the context from the greater org as you have it, and coaching as they work through problems.
 - Please demonstrate a healthy work-life balance to your team. Please do not send emails/Slack messages far outside of work hours to your team; if you do need to for some reason, please make it clear to your team that it’s an unusual circumstance.
@@ -179,8 +181,8 @@ Embrace your key responsibilities of managings a cross-functional, multi-cultura
 - Develop a high empathy and understanding of the needs and personalities of people who report to you.
 
 **Leadership**
-Establish a good communication system, set the direction, inspire people, promote our company values and purpose, and shape the tech strategy.
 
+Establish a good communication system, set the direction, inspire people, promote our company values and purpose, and shape the tech strategy.
 
 - Foster a culture of knowledge sharing within your team and interfacing teams.
 - Please routinely reach out to your team’s stakeholders. Keep an ear to the ground about what they’re launching, and be proactive about responding to them when they reach out.
@@ -190,30 +192,33 @@ Establish a good communication system, set the direction, inspire people, promot
 - Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs. 
 
 **Driving things & Company Strategy**
-Act on the company strategy and help the company grow.
 
+Act on the company strategy and help the company grow.
 
 - I expect you to take the reins of ownership, and all that entails, in everything you drive. That also means that you also own all of your successes.
 - Building scalable processes, technology and organization (first) business (2nd).
 - Get yourself familiar with our companies values as well as with our leadership codex.
 - Remember that you can only “juggle” that many topics. If you start taking on more topics than you can “juggle”, you will start dropping some of them. The best managers I have met so far were able to handle two big topics at the same time. Not more. Focus and deliver, then take on additional tasks when you are done.
 - I love tools. I love automation. If you can show me a great tool that will increase our performance or understanding of our code, it’s very likely that I will agree to give it a try. I am also a big fan of monitoring solutions that warn us before something happens and provides us with an insight into what could happening in our production environment. I expect from you that you develop and plan our monitoring and alerting solutions, both technically and culturally.
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_A8F9F824F119818D759883618CA149F2401DD9D1590276B71BE2982277F562A0_1537451536407_unnamed.png)
 
 ## Some controversial positions
 
 Feel free to challenge these positions and talk to me about it.
 
 **I expect you to help me with my goals**
+
 We are successful together. But in contrary to what you might read elsewhere, I don't believe that managers work only for their employees. I see it more this way: we share the same goals. I help to split up the packages and share the workload equitably. I have the higher purpose in mind (the “lighthouse” for you to aim for) and will help you get the direction right. But you do the rowing. I gladly share the goals I have for the team and the org in a technical vision discussion. The best way to move forward with personal and organizational goals is to be aligned and heading in the same direction.
 
 **High agreeableness vs. low agreeableness**
+
 I tend to be a “highly agreeable” person. That neither something good or bad. The positive side is, that I usually have a very high empathy for your challenges and requests, I listen carefully and try to support you. The downside is that I might not always come straight to a point, especially when it comes to negative feedback. I’m working on that. If you have the feeling that I am holding back some feedback, tell me. I also can be very blunt when directly requested.
 
 **My door is not always open**
+
 My door as a manager doesn't have to **always** be open. More often than not, yes...but it's okay to say no to impromptu requests.
 
 **Be imperfect**
+
 If you need to be perfect, it's hard to press the “ship it” button. Difficult to hire someone who makes things happen (because you'll be responsible for what happens). Frightening to put yourself into a position where you're expected to introduce new work. The only way is forward. Forward moves us from what we have now (perfect, or at least we're no longer living in fear of what's not right) to a world filled with nothing but imperfection. If you want motion, the only way is through. We get to the work we seek by passing through imperfection.
 
 # Read on
@@ -225,7 +230,6 @@ On our journey to improve, it’s vital to learn a lot and engage in building kn
 - Software Engineering Radio (Podcast): [http://www.se-radio.net/](http://www.se-radio.net/2008/09/episode-110-roles-in-software-engineering-i/)
 - [The Effective Engineer](http://www.effectiveengineer.com/)
    
-
 **Leadership & Management**
 
 - Manager Tools (Podcast): https://www.manager-tools.com/
@@ -250,8 +254,7 @@ On our journey to improve, it’s vital to learn a lot and engage in building kn
 
 This is my [PI](https://www.predictiveindex.com/what-we-do/our-assessments/behavioral/) from when I started XING, might be interesting for you to align with yours (sorry, german only)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_A8F9F824F119818D759883618CA149F2401DD9D1590276B71BE2982277F562A0_1531919079213_Bildschirmfoto+2018-07-18+um+15.04.13.png)
-
+![David's PI](pi.png)
 
 **Here are some things that I think are “right”**
 
