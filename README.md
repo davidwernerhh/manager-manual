@@ -221,6 +221,10 @@ My door as a manager doesn't have to **always** be open. More often than not, ye
 
 If you need to be perfect, it's hard to press the “ship it” button. Difficult to hire someone who makes things happen (because you'll be responsible for what happens). Frightening to put yourself into a position where you're expected to introduce new work. The only way is forward. Forward moves us from what we have now (perfect, or at least we're no longer living in fear of what's not right) to a world filled with nothing but imperfection. If you want motion, the only way is through. We get to the work we seek by passing through imperfection.
 
+** How do you notice that I am grumpy **
+
+It happens. I also get stress or annoyed from time to time. Usually, you notice this when I get reserved (yes/no answers), lose my humor or stop laughing about bad jokes. Also, I will be less frequently at my desk in the team space to get some space or fix stuff that is burning down.
+
 # Read on
 
 On our journey to improve, it’s vital to learn a lot and engage in building knowledge. I read a lot about management and leadership. Some of this is also applicable to the engineering field. Here are some pointers on where to start. I’ll add more to this list from time to time. 
