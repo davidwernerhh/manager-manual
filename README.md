@@ -35,7 +35,7 @@ In general, please over-communicate with me. Don’t worry about sending me too 
 
 It is crucial to me that you try to focus on possible solutions to a problem. The focus on the answer gives us the right mindset to talk about possible paths to a solution, rather than only focussing on what's wrong or not working right now.
 
-How I like to do it: I don’t require you to only approach me when you have the perfect solution, but I’d like you to think about some options before. It doesn't have to be perfect, but should be a reasonable basis for our discussion. The ideal way will be if you prepare a decision proposal on how to move forward. It could look like this:
+How I like to do it: I don’t require you only to approach me when you have the perfect solution, but I’d like you to think about some options before. It doesn't have to be perfect, but should be a reasonable basis for our discussion. The ideal way will be if you prepare a decision proposal on how to move forward. It could look like this:
 
 - **Option 1 (preferred):** Describe what you are planning, what implications there are and what the pros/cons are. Have a specific impact on business value and what KPIs are affected. Be prepared to provide insight and clarity to the options you propose.
 - Option 2: …
