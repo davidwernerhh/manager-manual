@@ -15,7 +15,7 @@ I value open, authentic relationships. I promise to be kind, honest, empathetic 
 
 **How I like to communicate**
 
-Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. But I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it! 
+Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. But I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it!
 
 I will be in a lot of meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
 
@@ -23,9 +23,9 @@ I will be in a lot of meetings, but I will try to carve out enough time to be re
 
 I expect you to communicate ideas, problems, and solutions effectively. I will make decisions and move communication up and across the chains based on the information you are providing, so better make sure it's correct.
 
-I groom my calendar very well. And usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate. But keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun). 
+I groom my calendar very well. And usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate. But keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun).
 
-Also: I am sometimes on Slack in the evenings after the kids go to bed or I will answer emails on the weekend. I do not expect you to do the same. If you need something, push your communication pro-actively, do not wait for me to pull. 
+Also: I am sometimes on Slack in the evenings after the kids go to bed or I will answer emails on the weekend. I do not expect you to do the same. If you need something, push your communication pro-actively, do not wait for me to pull.
 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me; it’s precious. Since I manage different teams in different units,  I’d love to be there for you if something comes up. Please understand that I can’t see how you’re doing by walking around the office.
 
@@ -42,16 +42,16 @@ How I like to do it: I don’t require you only to approach me when you have the
 **Status Reporting**
 
 When it comes to reporting your progress or status of your assignments and your professional behavior, I’d like to follow a Red-Amber-Green assessment model. My goal is for you always to know where you’re at regarding your progress and performance. If you ever feel you don’t know, feel unsafe or missing input and feedback, please ask me.
-  
+
   **Green** - there might be things to improve, or there might not. It means you are on the right track (in budget, time and quality and scope) and don’t need any further support.
-  
+
   **Amber** - there are one or more behaviors that, if left unchecked in the long term, will not be sustainable. Something needs to change. You might need help with that, or you are blocked with your assignments. I leave it up to you to determine if you need help with that or not. I will only step in if a solution cannot be found, if my assistance is requested or an impasse has been reached.
-  
+
   **Red** - there is a significant problem, and we need to talk about this explicitly. Possible approaches to solving this problem will come with a timebox attached.
 
 **D.R.I. Principle**
 
-I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. If you want to learn more about it: 
+I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. If you want to learn more about it:
 
 - [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
 - [How Well Does Apple's Directly Responsible Individual (DRI) Model Work In Practice?](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#778921f3194c)
@@ -70,7 +70,7 @@ I believe in leading by helping others see more clearly what they already know, 
 
 **1:1s**
 
-I will create a meeting individually with you (and everyone else from my direct reports) on a weekly basis. We'll call these meetings "one-on-ones". I think this is an excellent way for us to maintain good, open communication, and continue to build our relationship. We'll be meeting for 30 minutes once a week, at a pre-scheduled (and usually unchanged) time. It will be a private conversation - just you and I. We'll meet at my desk - if you have concerns, we'll talk about those once we get going. I will probably have some things to discuss with you, but this is first and foremost an opportunity to let me know how you're doing. 
+I will create a meeting individually with you (and everyone else from my direct reports) on a weekly basis. We'll call these meetings "one-on-ones". I think this is an excellent way for us to maintain good, open communication, and continue to build our relationship. We'll be meeting for 30 minutes once a week, at a pre-scheduled (and usually unchanged) time. It will be a private conversation - just you and I. We'll meet at my desk - if you have concerns, we'll talk about those once we get going. I will probably have some things to discuss with you, but this is first and foremost an opportunity to let me know how you're doing.
 
 Stuff we might be talking about:
 
@@ -89,11 +89,11 @@ That means that you drive the agenda. For me, it is fine if you want to do repor
 
 Giving feedback on your performance and behavior is a key part of my responsibilities. To be effective in providing and getting feedback, you should get comfortable with that process. But don’t worry - we both will have enough time to train that. What you can rely on: If I'm worried about your performance, I will let you know. But if you worry that I'm concerned about your performance, please also let me know.
 
-As an analogy to giving feedback, I often refer to the “brick method”. When you drop a brick on your foot, it hurts immediately. It doesn’t hurt a month later or when you have the next yearly appraisal talk. Same goes for feedback. It should be fast and describing a specific behavior. Also, it should be small enough to handle and steer you in the right direction. 
+As an analogy to giving feedback, I often refer to the “brick method”. When you drop a brick on your foot, it hurts immediately. It doesn’t hurt a month later or when you have the next yearly appraisal talk. Same goes for feedback. It should be fast and describing a specific behavior. Also, it should be small enough to handle and steer you in the right direction.
 
-Imagine a road, the flattest and smoothest road you can think of. Even on this road, when you let go of the steering wheel, you will end up on the side of the road at some point. Feedback is like the little corrections you do when driving. These are not significant corrections; you don’t wait until you are almost in a ditch. You do these small corrections often and in best-case even more or less automatic. This goes for any positive feedback, as well as for things you can improve (or “negative” feedback). 
+Imagine a road, the flattest and smoothest road you can think of. Even on this road, when you let go of the steering wheel, you will end up on the side of the road at some point. Feedback is like the little corrections you do when driving. These are not significant corrections; you don’t wait until you are almost in a ditch. You do these small corrections often and in best-case even more or less automatic. This goes for any positive feedback, as well as for things you can improve (or “negative” feedback).
 
-I aim for “no surprises in our performance dialogue meetings”. That means that you should get quick feedback and should have heard about it at least once. There is no use in “4 months ago, you did this and that”. 
+I aim for “no surprises in our performance dialogue meetings”. That means that you should get quick feedback and should have heard about it at least once. There is no use in “4 months ago, you did this and that”.
 
 Feedback doesn’t hurt, I will be our tool to get better in what we are doing. But I know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain to me why something is wrong, I will listen, and I will try to fix it.
 
@@ -115,14 +115,6 @@ If you ever heard of S.M.A.R.T. goals - great! I think they don’t work. When w
 I am accountable for the decisions the team makes, even if I’m not the one making these decisions most of the time. Also, most of my own performance reviews are based on my team's performance, not so much on my individual performance. Because of that, delegation is an indispensable part of my work. If you are successful and happy, our team is successful and happy, and I am successful and happy.
 
 But sometimes I might put more on your shoulders that you think you can handle. That’s intended. That’s one way of figuring out where your strengths and limits are.
-
-## What you can expect of me as your manager
-
-- A weekly 1:1 if you are my direct report.
-- For managers, you can also expect regular “skip level” 1:1s where I’ll chat with your direct reports.
-- Direct feedback as quickly as possible, based on observations.
-- I will try to give you a direction on what to do, not how to do it.
-- I’ll try to transparently share the context of my own goals, challenges, and priorities. Please tell me if you don’t know what I’m currently up to.
 
 ## My expectations for everyone who reports to me
 
@@ -173,7 +165,7 @@ It is quite ‘easy’ to be a good manager. If you do the following things, the
 
 Embrace your key responsibilities of managing a cross-functional, multi-cultural engineering team. Develop the people, use their unique skills and coach them on personal and tech topics.
 
-- Please have weekly 1:1s with your direct reports. In those 1:1s, please be explicit about your reports’ career progression, the feedback you have for them, the context from the greater org as you have it, and coaching as they work through problems.
+- Please have weekly 1:1s with your direct reports. In those 1:1s, please be explicit about your reports’ career progression, the feedback you have for them, the context from the greater org as you have it, and coaching as they work through problems. You can also expect regular “skip level” 1:1s where I’ll chat with your direct reports.
 - Please demonstrate a healthy work-life balance to your team. Please do not send emails/Slack messages far outside of work hours to your team; if you do need to for some reason, please make it clear to your team that it’s an unusual circumstance.
 - Hiring is probably the most crucial job of yours. It is better to leave a position open than to hire a person that is wrong for the position. Assemble the best team possible.
 - Develop a high empathy and understanding of the needs and personalities of people who report to you.
@@ -187,7 +179,7 @@ Establish a good communication system, set the direction, inspire people, promot
 - Please build a peer network for yourself inside and outside of our company. I’m happy to help you find new peers to build that network. Please lean on them, as you explore solutions to the challenges you face.
 - Please continue to educate yourself on management and leadership: use your yearly training allotment, attend Leadership & Development workshops and conferences, learn from peers, and come up with own ideas.
 - Make sure you know the role description and responsibilities of your direct, teamlead role, director and VP.
-- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you have a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs. 
+- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you have a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs.
 
 **Driving things & Company Strategy**
 
@@ -225,18 +217,18 @@ It happens. I also get stress or annoyed from time to time. Usually, you notice 
 
 # Read on
 
-On our journey to improve, it’s vital to learn a lot and engage in building knowledge. I read a lot about management and leadership. Some of this is also applicable to the engineering field. Here are some pointers on where to start. I’ll add more to this list from time to time. 
+On our journey to improve, it’s vital to learn a lot and engage in building knowledge. I read a lot about management and leadership. Some of this is also applicable to the engineering field. Here are some pointers on where to start. I’ll add more to this list from time to time.
 
 **Engineering**
 
 - Software Engineering Radio (Podcast): [http://www.se-radio.net/](http://www.se-radio.net/2008/09/episode-110-roles-in-software-engineering-i/)
 - [The Effective Engineer](http://www.effectiveengineer.com/)
-   
+
 **Leadership & Management**
 
 - Manager Tools (Podcast): https://www.manager-tools.com/
 - [Managing Oneself](https://www.goodreads.com/book/show/2477223.Managing_Oneself) -  A classic in your library.
-- [Radical Focus](https://www.goodreads.com/book/show/28951428-radical-focus) - by Christina Wodtke 
+- [Radical Focus](https://www.goodreads.com/book/show/28951428-radical-focus) - by Christina Wodtke
 - [Leadership Lessons](https://www.goodreads.com/book/show/19825163-leadership-lessons-from-peter-drucker?from_search=true) - By Peter F. Drucker
 - [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - by Patrick Lencioni
 
