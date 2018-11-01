@@ -19,15 +19,13 @@ Precise, gentle, honest communication. I try not to leave you guessing what I �
 
 I will be in a lot of meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
 
-> email > slack > text > in-person > call
+> email > slack > text > in-person/meeting > call
 
 I expect you to communicate ideas, problems, and solutions effectively. I will make decisions and move communication up and across the chains based on the information you are providing, so better make sure it's correct.
 
-I groom my calendar very well. And usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate.
+I groom my calendar very well. And usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate. But keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun). 
 
-But keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun). Also: I am sometimes on Slack in the evenings after the kids go to bed or I will answer emails on the weekend. I do not expect you to do the same. 
-
-If you need something, push your communication pro-actively, do not wait for me to pull. 
+Also: I am sometimes on Slack in the evenings after the kids go to bed or I will answer emails on the weekend. I do not expect you to do the same. If you need something, push your communication pro-actively, do not wait for me to pull. 
 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me; it’s precious. Since I manage different teams in different units,  I’d love to be there for you if something comes up. Please understand that I can’t see how you’re doing by walking around the office.
 
@@ -189,7 +187,7 @@ Establish a good communication system, set the direction, inspire people, promot
 - Please build a peer network for yourself inside and outside of our company. I’m happy to help you find new peers to build that network. Please lean on them, as you explore solutions to the challenges you face.
 - Please continue to educate yourself on management and leadership: use your yearly training allotment, attend Leadership & Development workshops and conferences, learn from peers, and come up with own ideas.
 - Make sure you know the role description and responsibilities of your direct, teamlead role, director and VP.
-- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs. 
+- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you have a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs. 
 
 **Driving things & Company Strategy**
 
