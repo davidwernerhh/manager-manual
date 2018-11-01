@@ -1,4 +1,4 @@
-Here you will find some additional and maybe motivating ideas that didn't fit somewhere else.
+Here you will find some additional and maybe motivating ideas that didn't fit somewhere else. Just examples. Not an official requirement in your job description, not an expectation from my side. Perhaps common-sense, but will give you some plus points when interacting with me. Take it as a guideline if you want to go the extra mile.
 
 **Here are some things that I think are “right”**
 
@@ -26,8 +26,6 @@ Here you will find some additional and maybe motivating ideas that didn't fit so
 | Technical input to the product roadmap  | Technical Vision                                                 |
 
 **Maybe missing from your job description**
-
-This list gives you some plus points with me. Just examples. Not an official requirement in your job description. Maybe common-sense.
 
 - Add energy to every conversation
 - Ask why
