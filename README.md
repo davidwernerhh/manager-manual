@@ -205,13 +205,13 @@ I tend to be a “highly agreeable” person. That neither something good or bad
 
 **My door is not always open**
 
-My door as a manager doesn't have to **always** be open. More often than not, yes...but it's okay to say no to impromptu requests.
+My door as a manager doesn't have to **always** be open. More often than not, yes... but it's okay to say no to impromptu requests.
 
 **Be imperfect**
 
 If you need to be perfect, it's hard to press the “ship it” button. Difficult to hire someone who makes things happen (because you'll be responsible for what happens). Frightening to put yourself into a position where you're expected to introduce new work. The only way is forward. Forward moves us from what we have now (perfect, or at least we're no longer living in fear of what's not right) to a world filled with nothing but imperfection. If you want motion, the only way is through. We get to the work we seek by passing through imperfection.
 
-** How do you notice that I am grumpy **
+**How do you notice that I am grumpy**
 
 It happens. I also get stress or annoyed from time to time. Usually, you notice this when I get reserved (yes/no answers), lose my humor or stop laughing about bad jokes. Also, I will be less frequently at my desk in the team space to get some space or fix stuff that is burning down.
 
@@ -252,7 +252,7 @@ This is my [PI](https://www.predictiveindex.com/what-we-do/our-assessments/behav
 
 **Appendix**
 
-In ![here](appendix.md) you will find some additional and maybe motivating ideas that didn't fit somewhere else.
+In [here](appendix.md) you will find some additional and maybe motivating ideas that didn't fit somewhere else.
 
 
 
