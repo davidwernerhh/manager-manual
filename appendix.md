@@ -1,5 +1,12 @@
 Here you will find some additional and maybe motivating ideas that didn't fit somewhere else. Just examples. Not an official requirement in your job description, not an expectation from my side. Perhaps common-sense, but will give you some plus points when interacting with me. Take it as a guideline if you want to go the extra mile.
 
+**D.R.I. Principle**
+
+I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. I didn't implement this yet, but I'd like to encourage you to read about it.
+- [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
+- [How Well Does Apple's Directly Responsible Individual (DRI) Model Work In Practice?](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#778921f3194c)
+
+
 **Here are some things that I think are “right”**
 
 | **This feels like going faster**        | **But this actually makes us faster**                            |

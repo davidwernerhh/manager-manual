@@ -51,13 +51,6 @@ When it comes to reporting your progress or status of your assignments and your 
 
 The goal with this reporting tool is that we establish transparency regarding the status of our projects. Please report your status pro-actively. Choose the format that fits your needs best. For example: If Green, therefore not urgent, talk about it in our 1:1s. If Amber, inform via Mail or Slack. Then I have the chance to react appropriately. If Red, schedule some face-time with me. That way I can make suggestions and help you directly. If you ever feel you don’t know where you are at, how to move forward, feel unsafe or missing input and feedback, please ask me.
 
-**D.R.I. Principle**
-
-I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and self-organizing teams. I like knowing who is driving which topic and who I can approach for action items after a meeting. By seeking to create a culture of accountability with the group, we avoid dependencies on managers to tell the team what to do and increase responsibility on the team to self-organize. If you want to learn more about it:
-
-- [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
-- [How Well Does Apple's Directly Responsible Individual (DRI) Model Work In Practice?](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#778921f3194c)
-
 # North Star Principles
     *“The way to make people trust-worthy is to trust them.”*
       — Ernest *Hemingway*
