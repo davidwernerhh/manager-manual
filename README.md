@@ -5,7 +5,7 @@ I am managing, building and growing teams for many years now. I champion enginee
 
 ## What is this document?
 
-Let’s face it; this is a weird document. But this could be your manual on how to work with me. Its sole purpose is to help you understand me and my intentions better, but it also helps me self-reflect on my style. When you are my direct, it will give you something to read about me, so we can have better and more meaningful conversations about what’s important. I took some nicely worded phrases from other managers because I felt that these match my beliefs quite well.
+Let’s face it; this is a weird document. But this could be your manual on how to work with me. Its sole purpose is to help you understand me and my intentions better, but it also helps me self-reflect on my style. When you are my direct, it will give you something to read about me, so we can have better and more meaningful conversations about what’s important.
 
 # How I like to work
 
@@ -259,6 +259,8 @@ In [here](appendix.md) you will find some additional and maybe motivating ideas 
 
 
 ### Sources
+
+I took some nicely worded phrases from other managers because I felt that these match my beliefs quite well.
 
 - [Molly's Manager Readme](https://github.com/molly/manager-README)
 - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
