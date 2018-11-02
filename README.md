@@ -5,25 +5,25 @@ I am managing, building and growing teams for many years now. I champion enginee
 
 ## What is this document?
 
-Let’s face it; this is a weird document. But this could be your manual on how to work with me. Its sole purpose is to help you understand me and my intentions better, but it also helps me self-reflect on my style. When you are my direct, it will give you something to read about me, so we can have better and more meaningful conversations about what’s important.
+Let’s face it; this is a weird document. However, this could be your manual on how to work with me. Its sole purpose is to help you understand me and my intentions better, but it also helps me self-reflect on my style. When you are my direct, it will give you something to read about me, so we can have better and more meaningful conversations about what’s important.
 
 # How I like to work
 
-I love to be surrounded by people who challenge me, and I recognize that most people are better at something than I am. That’s probably also the reason why I hired you. I am not aiming towards being the best engineer in our organization. You are the expert, you code, build, test, ship, create processes and lead the way. I’m here to help. My best case scenario is when I can get out of your way.
+I love to be surrounded by people who challenge me, and I recognise that most people are better at something than I am. That’s probably also the reason why I hired you. I am not aiming towards being the best engineer in our organisation. You are the expert, you code, build, test, ship, create processes and lead the way. I’m here to help. My best case scenario is when I can get out of your way.
 
 I value open, authentic relationships. I promise to be kind, honest, empathetic and friendly with you. I want to get to know you and what's important for you. I will try to create a safe space for you to flourish and grow.
 
 **How I like to communicate**
 
-Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. But I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it!
+Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. However, I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it!
 
-I will be in a lot of meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
+I will be in many meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
 
 > email > slack > text > in-person/meeting > call
 
 I expect you to communicate ideas, problems, and solutions effectively. I will make decisions and move communication up and across the chains based on the information you are providing, so better make sure it's correct.
 
-I groom my calendar very well. And usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate. But keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun).
+I groom my calendar very well. Moreover, usually, my schedule is not super full. I’d like to have it that way intentionally so that I can have some quality time with the teams. Blocking some time on my calendar is the best way to get my undivided attention. If you invite me to a meeting, include the topic and agenda. If you need “just two minutes to talk about something”, make sure I know about what item or problem you like to talk about. Otherwise, I might assume it is something unfortunate. Please keep in mind: My calendar is not a puzzle. If you try to squeeze in 15 minutes between two meetings I might decline it or turn up stressed (running from meetings back-to-back is no fun).
 
 Also: I am sometimes on Slack in the evenings after the kids go to bed or I will answer emails on the weekend. I do not expect you to do the same. If you need something, push your communication pro-actively, do not wait for me to pull.
 
@@ -33,7 +33,7 @@ In general, please over-communicate with me. Don’t worry about sending me too 
 
 It is crucial to me that you try to focus on possible solutions to a problem. The focus on the answer gives us the right mindset to talk about possible paths to a solution, rather than only focussing on what's wrong or not working right now.
 
-How I like to do it: I don’t require you only to approach me when you have the perfect solution, but I’d like you to think about some options before. It doesn't have to be perfect, but should be a reasonable basis for our discussion. The ideal way will be if you prepare a decision proposal on how to move forward. It could look like this:
+How I like to do it: I don’t require you only to approach me when you have the perfect solution, but I’d like you to think about some options before. It doesn't have to be perfect but should be a reasonable basis for our discussion. The ideal way will be if you prepare a decision proposal on how to move forward. It could look like this:
 
 - **Option 1 (preferred):** Describe what you are planning, what implications there are and what the pros/cons are. Have a specific impact on business value and what KPIs are affected. Be prepared to provide insight and clarity to the options you propose.
 - Option 2: …
@@ -55,7 +55,7 @@ The goal with this reporting tool is that we establish transparency regarding th
     *“The way to make people trust-worthy is to trust them.”*
       — Ernest *Hemingway*
 
-What do I mean by that? See it as your "lighthouse", where to aim at. Things you can rely on when working for me. Not an expectation for you, but rather something you can hold me accountable for. The base for everything we do, our interaction, our communication, your commitment, and my guidance is **trust**. I want to start a dialogue with you, so please tell me if I mess up. I am willing to listen if you keep your feedback fair and on a constructive level.
+What do I mean by that? Things you can rely on when working for me. Not an expectation for you, but rather something you can hold me accountable for. The base for everything we do, our interaction, our communication, your commitment, and my guidance is **trust**. I want to start a dialogue with you, so please tell me if I mess up. I am willing to listen if you keep your feedback fair and on a constructive level.
 
 ## My leadership philosophy
 
@@ -68,34 +68,34 @@ I will create a meeting individually with you (and everyone else from my direct 
 Stuff we might be talking about:
 
 - How you are doing and how you feel.
-- Things I heard, some context from the greater organization.
+- Things I heard, some context from the greater organisation.
 - Some feedback I want to share with you.
 - Talk about your career progression.
 - Please proactively tell me if your spidey sense is going off about team dynamics, an individual, or something else that may eventually grow into a significant concern.
 - Offer help to help you work through problems you’re trying to solve.
 - I also like to share some of my current topics and questions I am working on, so you also have some concrete information about what I’m up to.
-- Encouraging and modeling a healthy work-life balance and avoiding burnout.
+- Encouraging and modelling a healthy work-life balance and avoiding burnout.
 
 That means that you drive the agenda. For me, it is fine if you want to do reporting, but the general idea is that you share what you need. Let’s talk about what you wish could be different, how you feel about our team and your peers, what your career goals are. This discussion will also give me a chance to share feedback and coaching with you on things you're trying to improve on. Remember, you drive the conversation and the agenda.
 
 **Feedback**
 
-Giving feedback on your performance and behavior is a key part of my responsibilities. To be effective in providing and getting feedback, you should get comfortable with that process. But don’t worry - we both will have enough time to train that. What you can rely on: If I'm worried about your performance, I will let you know. But if you worry that I'm concerned about your performance, please also let me know.
+Giving feedback on your performance and behaviour is a key part of my responsibilities. To be effective in providing and getting feedback, you should get comfortable with that process. Don’t worry - we both will have enough time to train that. What you can rely on: If I'm worried about your performance, I will let you know. However, if you worry that I'm concerned about your performance, please also let me know.
 
-As an analogy to giving feedback, I often refer to the “brick method”. When you drop a brick on your foot, it hurts immediately. It doesn’t hurt a month later or when you have the next yearly appraisal talk. Same goes for feedback. It should be fast and describing a specific behavior. Also, it should be small enough to handle and steer you in the right direction.
+As an analogy to giving feedback, I often refer to the “brick method”. When you drop a brick on your foot, it hurts immediately. It doesn’t hurt a month later or when you have the next yearly appraisal talk. Same goes for feedback. It should be fast and describing a specific behaviour. Also, it should be small enough to handle and steer you in the right direction.
 
 Imagine a road, the flattest and smoothest road you can think of. Even on this road, when you let go of the steering wheel, you will end up on the side of the road at some point. Feedback is like the little corrections you do when driving. These are not significant corrections; you don’t wait until you are almost in a ditch. You do these small corrections often and in best-case even more or less automatic. This goes for any positive feedback, as well as for things you can improve (or “negative” feedback).
 
 I aim for “no surprises in our performance dialogue meetings”. That means that you should get quick feedback and should have heard about it at least once. There is no use in “4 months ago, you did this and that”.
 
-Feedback doesn’t hurt, I will be our tool to get better in what we are doing. But I know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain to me why something is wrong, I will listen, and I will try to fix it.
+Feedback doesn’t hurt, I will be our tool to get better in what we are doing. I also know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain to me why something is wrong, I will listen, and I will try to fix it.
 
 **Coaching**
 
     *“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”*
       — Stephen R. Covey
 
-Many people don’t understand what coaching means. I don’t claim that my approach is the perfect one. Admittedly, I also know that I can still improve on this topic. But I know what it’s not: We will not lock ourselves in a room for hours, and afterward, I tell you what your next career step is. Coaching can be really easy or very hard for us. It usually doesn’t take up more time than 5 minutes per week and can happen within our 1:1s. If you actively manage your career, it’s easy. If not, this will be no fun at all.
+Many people don’t understand what coaching means. I don’t claim that my approach is the perfect one. Admittedly, I also know that I can still improve on this topic. I know what it’s not: We will not lock ourselves in a room for hours, and afterwards, I tell you what your next career step is. Coaching can be really easy or very hard for us. It usually doesn’t take up more time than 5 minutes per week and can happen within our 1:1s. If you actively manage your career, it’s easy. If not, this will be no fun at all.
 
 I expect you to take your career planning into your own hands, again, it is your responsibility. I have a strong background as an engineer, but you are much better qualified to come up with ideas in that area.
 
@@ -107,11 +107,11 @@ If you ever heard of S.M.A.R.T. goals - great! I think they don’t work. When w
 
 I am accountable for the decisions the team makes, even if I’m not the one making these decisions most of the time. Also, most of my own performance reviews are based on my team's performance, not so much on my individual performance. Because of that, delegation is an indispensable part of my work. If you are successful and happy, our team is successful and happy, and I am successful and happy.
 
-But sometimes I might put more on your shoulders that you think you can handle. That’s intended. That’s one way of figuring out where your strengths and limits are.
+However, sometimes I might put more on your shoulders that you think you can handle. That’s intended. That’s one way of figuring out where your strengths and limits are.
 
 ## My expectations for everyone who reports to me
 
-Additionally and partly overlapping to the text above. But regardless if you are an engineer, a people manager or act in a different role. When you report to me, there are some principles and expectations we should talk about.
+This paragraph is somehow additionally, but also partly overlapping to the text above. However, regardless if you are an engineer, a people manager or act in a different role. When you report to me, there are some principles and expectations we should talk about.
 
 - Get results. Do your job. This is your first and primary responsibility.
 - Make mistakes, but learn from it.
@@ -142,7 +142,7 @@ Additionally and partly overlapping to the text above. But regardless if you are
 - Love your craft, not your code.
 - You own the 1:1’s, they are for you, I’ll manage the timing
 - Show up. Show up and keep showing up. Show up with at least enthusiasm as you had when you first raised your hand to volunteer. The volunteering part is easy. Making promises is a fun way to get someone's attention. Keeping those promises is often unsung, but that's how you build something.
-- Be on time. Call me if you are late. Tell me if you can't make it.
+- Be on time. Call me if you are late. Let me know if you can't make it.
 - Push yourself to try new things and continue to engage in learning and knowledge sharing.
 
 ## My expectations of managers who report to me
@@ -172,14 +172,14 @@ Establish a good communication system, set the direction, inspire people, promot
 - Please build a peer network for yourself inside and outside of our company. I’m happy to help you find new peers to build that network. Please lean on them, as you explore solutions to the challenges you face.
 - Please continue to educate yourself on management and leadership: use your yearly training allotment, attend Leadership & Development workshops and conferences, learn from peers, and come up with own ideas.
 - Make sure you know the role description and responsibilities of your direct, teamlead role, director and VP.
-- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you have a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organization or me, even if your recommendation wasn’t chosen and you pitched something else with your directs.
+- Act professionally when you need to implement a decision that you disagree with. Understand that you are the company for your directs and that you have a big red “BOSS” sign on your forehead. You are obligated to move forward and communicate decisions made by the organisation or me, even if your recommendation wasn’t chosen, and you pitched something else with your directs.
 
 **Driving things & Company Strategy**
 
 Act on the company strategy and help the company grow.
 
 - I expect you to take the reins of ownership, and all that entails, in everything you drive. That also means that you also own all of your successes.
-- Building scalable processes, technology and organization (first) business (2nd).
+- Building scalable processes, technology and organisation (first) business (2nd).
 - Get yourself familiar with our companies values as well as with our leadership codex.
 - Remember that you can only “juggle” that many topics. If you start taking on more topics than you can “juggle”, you will start dropping some of them. The best managers I have met so far were able to handle two big topics at the same time. Not more. Focus and deliver, then take on additional tasks when you are done.
 - I love tools. I love automation. If you can show me a great tool that will increase our performance or understanding of our code, it’s very likely that I will agree to give it a try. I am also a big fan of monitoring solutions that warn us before something happens and provides us with an insight into what could happening in our production environment. I expect from you that you develop and plan our monitoring and alerting solutions, both technically and culturally.
@@ -190,11 +190,11 @@ Feel free to challenge these positions and talk to me about it.
 
 **I expect you to help me with my goals**
 
-We are successful together. But in contrary to what you might read elsewhere, I don't believe that managers work only for their employees. I see it more this way: we share the same goals. I help to split up the packages and share the workload equitably. I have the higher purpose in mind (the “lighthouse” for you to aim for) and will help you get the direction right. But you do the rowing. I gladly share the goals I have for the team and the org in a technical vision discussion. The best way to move forward with personal and organizational goals is to be aligned and heading in the same direction.
+We are successful together. However, in contrary to what you might read elsewhere, I don't believe that managers work only for their employees. I see it more this way: we share the same goals. I help to split up the packages and share the workload equitably. I have the higher purpose in mind (the “lighthouse” for you to aim for) and will help you get the direction right. You need to do the rowing. I gladly share the goals I have for the team and the org in a technical vision discussion. The best way to move forward with personal and organisational goals is to be aligned and heading in the same direction.
 
-**High agreeableness vs. low agreeableness**
+**High agreeableness vs low agreeableness**
 
-I tend to be a “highly agreeable” person. That neither something good or bad. The positive side is, that I usually have a very high empathy for your challenges and requests, I listen carefully and try to support you. The downside is that I might not always come straight to a point, especially when it comes to negative feedback. I’m working on that. If you have the feeling that I am holding back some feedback, tell me. I also can be very blunt when directly requested.
+I tend to be a “highly agreeable” person. That neither something good or bad. The positive side is that I usually have a very high empathy for your challenges and requests, I listen carefully and try to support you. The downside is that I might not always come straight to a point, especially when it comes to negative feedback. I’m working on that. If you have the feeling that I am holding back some feedback, please tell me. I also can be very blunt when directly requested.
 
 **My door is not always open**
 
@@ -206,7 +206,7 @@ If you need to be perfect, it's hard to press the “ship it” button. Difficul
 
 **How do you notice that I am grumpy**
 
-It happens. I also get stress or annoyed from time to time. Usually, you notice this when I get reserved (yes/no answers), lose my humor or stop laughing about bad jokes. Also, I will be less frequently at my desk in the team space to get some space or fix stuff that is burning down.
+It happens. I also get stress or annoyed from time to time. Usually, you notice this when I get reserved (yes/no answers), lose my humour or stop laughing about bad jokes. Also, I will be less frequently at my desk in the team space to get some space or fix stuff that is burning down.
 
 # Read on
 
@@ -246,8 +246,6 @@ This is my [PI](https://www.predictiveindex.com/what-we-do/our-assessments/behav
 **Appendix**
 
 In [here](appendix.md) you will find some additional and maybe motivating ideas that didn't fit somewhere else.
-
-
 
 ### Sources
 
