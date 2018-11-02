@@ -59,7 +59,7 @@ I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and
 - [How Well Does Apple's Directly Responsible Individual (DRI) Model Work In Practice?](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#778921f3194c)
 
 # North Star Principles
-    “*The way to make people trust-worthy is to trust them.”*
+    *“The way to make people trust-worthy is to trust them.”*
       — Ernest *Hemingway*
 
 Regardless if you are an engineer, a people manager or act in a different role. When you report to me, there are some principles and expectations we should talk about.
