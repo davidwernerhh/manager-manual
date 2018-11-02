@@ -9,7 +9,7 @@ Let’s face it; this is a weird document. However, this could be your manual on
 
 ## TL;DR
 
-See a summary and a couple of slides here.
+See a summary and a couple of slides [here](slides.md).
 
 # How I like to work
 
