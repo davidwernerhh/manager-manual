@@ -62,9 +62,7 @@ I am a believer in the **D**irectly **R**esponsible **I**ndividual principle and
     *“The way to make people trust-worthy is to trust them.”*
       — Ernest *Hemingway*
 
-Regardless if you are an engineer, a people manager or act in a different role. When you report to me, there are some principles and expectations we should talk about.
-
-The base for everything we do, our interaction, our communication, your commitment, and my guidance is **trust**. I want to start a dialog with you, so please tell me if I mess up. I am willing to listen if you keep your feedback fair and on a constructive level.
+What do I mean by that? See it as your "lighthouse", where to aim at. Things you can rely on when working for me. Not an expectation for you, but rather something you can hold me accountable for. The base for everything we do, our interaction, our communication, your commitment, and my guidance is **trust**. I want to start a dialogue with you, so please tell me if I mess up. I am willing to listen if you keep your feedback fair and on a constructive level.
 
 ## My leadership philosophy
 
@@ -120,7 +118,7 @@ But sometimes I might put more on your shoulders that you think you can handle. 
 
 ## My expectations for everyone who reports to me
 
-Additionally and partly overlapping to the text above
+Additionally and partly overlapping to the text above. But regardless if you are an engineer, a people manager or act in a different role. When you report to me, there are some principles and expectations we should talk about.
 
 - Get results. Do your job. This is your first and primary responsibility.
 - Make mistakes, but learn from it.
