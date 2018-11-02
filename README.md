@@ -1,11 +1,15 @@
 # Manual About Myself™️ 🧀
-Hi. My name is David Werner. I’m an engineering leader and consultant. I currently work as an Engineering Directory at XING, previously as a Technical Product Lead at InnoGames. I did freelance work before that for more than ten years. I am coming from a strong backend-leaning technical background and did most of my projects in PHP and Java.
+Hi. My name is David Werner. I’m an engineering leader and consultant. I currently work as an Engineering Directory at XING, previously as a Technical Product Lead at InnoGames. I did freelance work before that for more than ten years. I am coming from a strong backend-leaning technical background and did most of my projects in PHP and Java. I have a strong service-oriented mentality, and I like to fix things that are broken.
 
 I am managing, building and growing teams for many years now. I champion engineering best-practices and have a distinct emphasis on software quality, Continous Integration, and automation tools.
 
 ## What is this document?
 
 Let’s face it; this is a weird document. However, this could be your manual on how to work with me. Its sole purpose is to help you understand me and my intentions better, but it also helps me self-reflect on my style. When you are my direct, it will give you something to read about me, so we can have better and more meaningful conversations about what’s important.
+
+## TL;DR
+
+See a summary and a couple of slides here.
 
 # How I like to work
 
