@@ -41,13 +41,15 @@ How I like to do it: I don’t require you only to approach me when you have the
 
 **Status Reporting**
 
-When it comes to reporting your progress or status of your assignments and your professional behavior, I’d like to follow a Red-Amber-Green assessment model. My goal is for you always to know where you’re at regarding your progress and performance. If you ever feel you don’t know, feel unsafe or missing input and feedback, please ask me.
+When it comes to reporting your progress or status of your assignments and your professional behaviour, I’d like to follow a Red-Amber-Green assessment model. It looks like this:
 
   **Green** - there might be things to improve, or there might not. It means you are on the right track (in budget, time and quality and scope) and don’t need any further support.
 
-  **Amber** - there are one or more behaviors that, if left unchecked in the long term, will not be sustainable. Something needs to change. You might need help with that, or you are blocked with your assignments. I leave it up to you to determine if you need help with that or not. I will only step in if a solution cannot be found, if my assistance is requested or an impasse has been reached.
+  **Amber** - there are one or more issues that, if left unchecked in the long term, will not be sustainable. Something needs to change. You might need help with that, or you are blocked with your assignments. I leave it up to you to determine if you need help with that or not. I will only step in if you cannot find a solution, if you request my assistance or if you have reached an impasse.
 
-  **Red** - there is a significant problem, and we need to talk about this explicitly. Possible approaches to solving this problem will come with a timebox attached.
+  **Red** - there is a significant problem, and we need to talk about this explicitly. Possible approaches to solving this problem should come with a proposal and timebox attached.
+
+The goal with this reporting tool is that we establish transparency regarding the status of our projects. Please report your status pro-actively. Choose the format that fits your needs best. For example: If Green, therefore not urgent, talk about it in our 1:1s. If Amber, inform via Mail or Slack. Then I have the chance to react appropriately. If Red, schedule some face-time with me. That way I can make suggestions and help you directly. If you ever feel you don’t know where you are at, how to move forward, feel unsafe or missing input and feedback, please ask me.
 
 **D.R.I. Principle**
 
