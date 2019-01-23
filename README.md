@@ -21,7 +21,7 @@ I value open, authentic relationships. I promise to be kind, honest, empathetic 
 
 Precise, gentle, honest communication. I try not to leave you guessing what I ‘really’ think or expect you to read between the lines of what I’m saying. However, I know I can still improve on this. In the past I got the feedback to have a “Manager Gameface” and people have a hard time to read me and understand what I was saying. It’s not intentional. So, if it’s not clear, and you have a nagging feeling, let me know so I can fix it!
 
-I will be in many meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. This also goes for sensitive or very important dialogue, please to the in person. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out.
+I will be in a lot of meetings, but I will try to carve out enough time to be responsive to the teams. Because of that, I prefer async communication, unless it is an emergency. I’ll try to reply promptly to you or let you know when you can expect a reply if you reach out. If you have something sensitive to discuss, it is fine to reach out to me in person.
 
 > email > slack > text > in-person/meeting > call
 
