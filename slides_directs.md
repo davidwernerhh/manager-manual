@@ -24,8 +24,8 @@ Since then, I've had some GREAT working relationships with managers and a few le
 # That's me
 
 - Living in Hamburg, two kids
-- Engineering Director @ XING
-- Before: InnoGames
+- Engineering Director @ [XING](https://www.xing.com)
+- Before: [InnoGames](https://www.innogames.com)
 - Freelancer > 10y
 - Technical background: PHP, Java
 
