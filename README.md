@@ -56,8 +56,8 @@ When it comes to reporting your progress or status of your assignments and your 
 The goal with this reporting tool is that we establish transparency regarding the status of our projects. Please report your status pro-actively. Choose the format that fits your needs best. For example: If Green, therefore not urgent, talk about it in our 1:1s. If Amber, inform via Mail or Slack. Then I have the chance to react appropriately. If Red, schedule some face-time with me. That way I can make suggestions and help you directly. If you ever feel you don’t know where you are at, how to move forward, feel unsafe or missing input and feedback, please ask me.
 
 # North Star Principles
-    **“The way to make people trust-worthy is to trust them.”**
-      — Ernest **Hemingway**
+    “The way to make people trust-worthy is to trust them.”
+      — Ernest Hemingway
 
 What do I mean by that? Things you can rely on when working for me. Not an expectation for you, but rather something you can hold me accountable for. The base for everything we do, our interaction, our communication, your commitment, and my guidance is **trust**. I want to start a dialogue with you, so please tell me if I mess up. I am willing to listen if you keep your feedback fair and on a constructive level.
 
@@ -96,7 +96,7 @@ Feedback doesn’t hurt, I will be our tool to get better in what we are doing. 
 
 **Coaching**
 
-    **“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”**
+    “If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”
       — Stephen R. Covey
 
 Many people don’t understand what coaching means. I don’t claim that my approach is the perfect one. Admittedly, I also know that I can still improve on this topic. I know what it’s not: We will not lock ourselves in a room for hours, and afterwards, I tell you what your next career step is. Coaching can be really easy or very hard for us. It usually doesn’t take up more time than 5 minutes per week and can happen within our 1:1s. If you actively manage your career, it’s easy. If not, this will be no fun at all.
